@@ -12,14 +12,16 @@
  4. 小刀和塑料刮板，一般卖单向膜的会送。
  5. 双面胶布，需要粘性比较强的
  6. 黑色卡纸一张
-###  拼装
- 7. 一般玻璃上贴单向膜需要在玻璃和膜上都洒洗洁精水，贴之前确保玻璃表面干净，贴上后再用刮板把气泡刮走，这个步骤一定要仔细，不然水干了之后会出现很多气泡。
- 8. 下载apk并安装运行。[motw.apk](https://github.com/sgwhp/MirrorOnTheWall/raw/master/motw.apk)
+ 
+### 拼装
+ 1. 一般玻璃上贴单向膜需要在玻璃和膜上都洒洗洁精水，贴之前确保玻璃表面干净，贴上后再用刮板把气泡刮走，这个步骤一定要仔细，不然水干了之后会出现很多气泡。
+ 2. 下载apk并安装运行。[motw.apk](https://github.com/sgwhp/MirrorOnTheWall/raw/master/motw.apk)
 ![](https://github.com/sgwhp/MirrorOnTheWall/raw/master/art/3.jpg)
- 10. 最终效果：
+ 3. 最终效果：
  ![](https://github.com/sgwhp/MirrorOnTheWall/raw/master/art/2.jpg)
+ 
 ### 语音控制
-按下音量+、-键即可语音收入。
+按下音量+、-键即可语音输入。
  1. 新建提醒：如明天早上8点提醒我下午开会、1小时后提醒我开会、每周一提醒我上班等。
  2. 删除提醒：语音输入删除提醒，会清空已显示的提醒，如果还有未执行到的提醒，会提示是否一并删除。
 ### 编译
