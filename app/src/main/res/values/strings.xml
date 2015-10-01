@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MirrorOnTheWall</string>
+    <string name="action_settings">Settings</string>
+    <string name="weather_info">%1$s  %2$s°C</string>
+</resources>
