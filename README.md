@@ -16,8 +16,9 @@
 ### 拼装
  1. 一般玻璃上贴单向膜需要在玻璃和膜上都洒洗洁精水，贴之前确保玻璃表面干净，贴上后再用刮板把气泡刮走，这个步骤一定要仔细，不然水干了之后会出现很多气泡。
  2. 下载apk并安装运行。[motw.apk](https://github.com/sgwhp/MirrorOnTheWall/raw/master/motw.apk)
+ 3. 待玻璃干后，将卡纸裁剪成玻璃大小，并预留出平板屏幕大小的平面，将卡纸粘到玻璃上，最后再将镜子、平板粘到墙上就大功告成了。
 ![](https://github.com/sgwhp/MirrorOnTheWall/raw/master/art/3.jpg)
- 3. 最终效果：
+ 4. 最终效果：
  ![](https://github.com/sgwhp/MirrorOnTheWall/raw/master/art/2.jpg)
  
 ### 语音控制
